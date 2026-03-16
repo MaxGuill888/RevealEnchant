@@ -1,0 +1,6 @@
+name: RevealEnchant
+version: 1.0
+main: me.votreunom.enchantreveal.Main
+api-version: 1.12
+author: TonNom
+description: Affiche tous les enchantements au survol de la souris.
